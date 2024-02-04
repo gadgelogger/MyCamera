@@ -14,6 +14,7 @@
 		2E5D88562B6CAC2200BA2160 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E5D88552B6CAC2200BA2160 /* Assets.xcassets */; };
 		2E5D88592B6CAC2200BA2160 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E5D88572B6CAC2200BA2160 /* LaunchScreen.storyboard */; };
 		2E5D88612B6CC02300BA2160 /* EffectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E5D88602B6CC02300BA2160 /* EffectViewController.swift */; };
+		2E5D88642B6FCD5200BA2160 /* UIImageExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E5D88622B6FCC3700BA2160 /* UIImageExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2E5D88582B6CAC2200BA2160 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2E5D885A2B6CAC2200BA2160 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2E5D88602B6CC02300BA2160 /* EffectViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EffectViewController.swift; sourceTree = "<group>"; };
+		2E5D88622B6FCC3700BA2160 /* UIImageExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImageExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				2E5D88502B6CAC1E00BA2160 /* ViewController.swift */,
 				2E5D88522B6CAC1E00BA2160 /* Main.storyboard */,
 				2E5D88602B6CC02300BA2160 /* EffectViewController.swift */,
+				2E5D88622B6FCC3700BA2160 /* UIImageExtension.swift */,
 				2E5D88552B6CAC2200BA2160 /* Assets.xcassets */,
 				2E5D88572B6CAC2200BA2160 /* LaunchScreen.storyboard */,
 				2E5D885A2B6CAC2200BA2160 /* Info.plist */,
@@ -144,6 +147,7 @@
 				2E5D88512B6CAC1E00BA2160 /* ViewController.swift in Sources */,
 				2E5D88612B6CC02300BA2160 /* EffectViewController.swift in Sources */,
 				2E5D884D2B6CAC1E00BA2160 /* AppDelegate.swift in Sources */,
+				2E5D88642B6FCD5200BA2160 /* UIImageExtension.swift in Sources */,
 				2E5D884F2B6CAC1E00BA2160 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

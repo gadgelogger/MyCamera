@@ -92,7 +92,6 @@
                                 </buttonConfiguration>
                                 <connections>
                                     <action selector="shareButtonAction:" destination="d25-fd-gLA" eventType="touchUpInside" id="Yn9-zg-k38"/>
-                                    <action selector="test:" destination="d25-fd-gLA" eventType="touchUpInside" id="orL-2l-hSj"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JK2-Ym-SjI">
